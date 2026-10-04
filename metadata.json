@@ -1,0 +1,6 @@
+{
+  "name": "OurJour",
+  "description": "Aplikasi dekor jurnal notebook estetik dengan beragam set tema, palet warna, tipografi bervariasi, serta fitur kolaborasi lembaran bersama teman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
